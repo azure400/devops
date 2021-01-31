@@ -1,1 +1,2 @@
 This is fileB.txt
+Now closing Task 03 with ID 4
